@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/demo/static/css/main.c544bdfe.css",
+    "main.js": "/demo/static/js/main.a4057279.js",
+    "static/js/453.c597153d.chunk.js": "/demo/static/js/453.c597153d.chunk.js",
+    "static/media/Anuvanuvuu.mp3": "/demo/static/media/Anuvanuvuu.68b3beea392f2a7ca03b.mp3",
+    "index.html": "/demo/index.html",
+    "main.c544bdfe.css.map": "/demo/static/css/main.c544bdfe.css.map",
+    "main.a4057279.js.map": "/demo/static/js/main.a4057279.js.map",
+    "453.c597153d.chunk.js.map": "/demo/static/js/453.c597153d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c544bdfe.css",
+    "static/js/main.a4057279.js"
+  ]
+}
